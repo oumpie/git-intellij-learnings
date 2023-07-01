@@ -1,1 +1,1 @@
-This is GIT using IntelliJ IDE learnings tutorial from testing minibytes YouTube channel.
+This is git and IntelliJ IDE learning tutorial from Testing Mini Bytes.
